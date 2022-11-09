@@ -13,7 +13,7 @@
 .finally(() => console.log('작업이 끝났습니다.'))
 
 
-/* fetch('https://jsonplaceholder.typico3de.com/posts/1')
+/*  fetch('https://jsonplaceholder.typico3de.com/posts/1')
 .then(
   (response) => response.text(),(error) => console.log(error)
 )
@@ -21,4 +21,4 @@
   (result) => {
     console.log(result)
   }
-)*/
+) */
